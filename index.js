@@ -7,6 +7,7 @@ console.log("Happy Birthday!");
 
 function addsub(a,b,c) {
     console.log(a+b-c);
+    console.log(c+a-b);
 }
 
 
